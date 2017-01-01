@@ -28,3 +28,7 @@ This script compiles the data only for each scan, and then for all scans. If you
 ## Troubleshooting
 
 If for some reason the scans are not consecutively numbered in the *.dat* file (happened before!), the script will give an error and exit. In such case, please fix the scan numbering in the *.dat* file manually.
+
+## Licensing
+
+Distributed under GPLv2. You can find the full license text [here](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
